@@ -1,21 +1,21 @@
 Hello
 
-> Open this page at [https://www.linkedin.com/in/a1den](https://www.linkedin.com/in/a1den/)
+> Linked in [https://www.linkedin.com/in/a1den](https://www.linkedin.com/in/a1den/
+> Xkiwis@gmail.com
+> 604-716-5482
+> Burnaby BC, Canada
 
 
+## About 
 
-
-https://www.linkedin.com/in/a1den/
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
+Curious, Hardworking learner.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/aiden-ji/portfolio** and import
 
-## Edit this project
+## Experience
 
 To edit this repository in MakeCode.
 
